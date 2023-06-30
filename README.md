@@ -1,6 +1,6 @@
 <div id='header' align='center'>
   <H1>Hi there! I'm Vera
-  <H3>Data analytic from Osa</H3>
+  <H3>Data analytic from Perm</H3>
 </div>
 <!--
 **VeraNovich/VeraNovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
